@@ -74,13 +74,7 @@
               Africa,Australia.
             </p>
           </div>
-          <div>
-            <a href="about">
-              <button class="about_button">
-                Know More
-              </button>
-            </a>
-          </div>
+          
 
         </div>
 
