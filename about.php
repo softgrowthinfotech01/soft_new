@@ -60,13 +60,32 @@
 
     <section class="inner-page text-center">
       <div class="container">
-        <div class="row justify-content-center">
-            <div class="col-md-8">
-        <p>
-        As a top best web design company in Chandrapur we provide all facilities related to the digitalization of your business.Softgrowth Infotech is happy to offer services in all the areas of Vidarbha, Maharashtra including Bhandara, Chandrapur, Gadchiroli, Gondia etc and even outside india.countries like USA,South Africa,Australia. 
-        </p>
-             </div>
-           </div>
+      <section class="about" id="about">
+      <div class="row justify-content-center">
+        <div class="col-lg-12" data-aos="fade-up">
+          <div class="section-title" data-aos="fade-up">
+            <h2>About Us</h2>
+          </div>
+          <div class="content pt-4 pt-lg-0 pl-0 pl-lg-3 ">
+            <p class="text-justify" style="text-align:justify;">
+              As a top best web design company in Chandrapur we provide all facilities related to the digitalization of
+              your business.Softgrowth Infotech is happy to offer services in all the areas of Vidarbha, Maharashtra
+              including Bhandara, Chandrapur, Gadchiroli, Gondia etc and even outside india.countries like USA,South
+              Africa,Australia.
+            </p>
+          </div>
+          <div>
+            <a href="about">
+              <button class="about_button">
+                Know More
+              </button>
+            </a>
+          </div>
+
+        </div>
+
+      </div>
+    </section>
       </div>
     </section>
 
