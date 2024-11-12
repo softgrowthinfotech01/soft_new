@@ -13,7 +13,7 @@
 
       <nav id="navbar" class="navbar">
         <ul>
-          <li><a <?php if($path == "index") {echo "class='active nav-link scrollto'" ; }  ?>  class="nav-link scrollto" href="index#`wellcome">Home</a></li>
+          <li><a <?php if($path == "index") {echo "class='active nav-link scrollto'" ; }  ?>  class="nav-link scrollto" href="index#wellcome">Home</a></li>
           <li><a <?php if($path == "about") {echo "class='active nav-link scrollto'" ; }  ?> class="nav-link scrollto" href="about">About</a></li>
           <li><a <?php if($path == "services") {echo "class='active nav-link scrollto'" ; }  ?> class="nav-link scrollto" href="services">Services</a></li>
           <li><a <?php if($path == "portfolio") {echo "class='active nav-link scrollto'" ; }  ?> class="nav-link scrollto " href="portfolio">Portfolio</a></li>
