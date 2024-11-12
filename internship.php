@@ -33,6 +33,75 @@
   * Author: BootstrapMade.com
   * License: https://bootstrapmade.com/license/
   ======================================================== -->
+
+  <style>
+
+.card {
+  display: flex;
+  flex-direction: column;
+  width: 230px;
+  height: 280px;
+  max-height: 330px;
+  background-color: var(--white);
+  border-radius: 10px;
+  box-shadow: 0px 10px 12px rgba(0, 0, 0, 0.08),
+          -4px -4px 12px rgba(0, 0, 0, 0.08);
+  overflow: hidden;
+  transition: all 0.3s;
+  cursor: pointer;
+  box-sizing: border-box;
+  padding: 10px;
+}
+
+.card:hover {
+  transform: translateY(-10px);
+  box-shadow: 0px 20px 20px rgba(0, 0, 0, 0.1),
+          -4px -4px 12px rgba(0, 0, 0, 0.08);
+}
+
+.card-image-container {
+  width: 100%;
+  height: 75%;
+  border-radius: 10px;
+  margin-bottom: 12px;
+  overflow: hidden;
+  background-color: rgb(165, 165, 165);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+
+.card-title {
+  margin: 0;
+  font-size: 17px;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+          "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  font-weight: 600;
+  color: #1797b8;
+  cursor: default;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+  display: -webkit-box;
+  -webkit-line-clamp: 1;
+  line-clamp: 1;
+}
+
+.card-des {
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+  display: -webkit-box;
+  -webkit-line-clamp: 1;
+  line-clamp: 1;
+  margin: 0;
+  font-size: 13px;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+          "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  color: #1797b8;
+  cursor: default;
+}
+
+  </style>
 </head>
 
 <body>
@@ -47,11 +116,11 @@
     <section class="breadcrumbs">
       <div class="container">
 
-        <div class="d-flex justify-content-between align-items-center">
-          <h2>Contact Us</h2>
+      <div class="d-flex justify-content-between align-items-center">
+          <h2>Internship</h2>
           <ol>
             <li><a href="index.php">Home</a></li>
-            <li>Contact Us</li>
+            <li>Internship</li>
           </ol>
         </div>
 
@@ -60,9 +129,66 @@
 
     <section class="inner-page">
       <div class="container">
-        <p>
-          Example inner page template
-        </p>
+
+      <div class="section-title" data-aos="fade-up">
+          <h2>Internship</h2>
+          <p>Magnam dolores commodi suscipit eius consequatur ex aliquid fuga eum quidem</p>
+        </div>
+
+        <div class="row">
+          <div class="col-md-3">
+           <div class="card">
+              <div class="card-image-container">
+        
+               </div>
+              <p class="card-title">Card Title</p>
+              <p class="card-des">
+               Lorem, ipsum dolor    
+              </p>
+    
+            </div>
+          </div>
+
+          <div class="col-md-3">
+           <div class="card">
+              <div class="card-image-container">
+        
+               </div>
+              <p class="card-title">Card Title</p>
+              <p class="card-des">
+               Lorem, ipsum dolor    
+              </p>
+    
+            </div>
+          </div>
+
+          <div class="col-md-3">
+           <div class="card">
+              <div class="card-image-container">
+        
+               </div>
+              <p class="card-title">Card Title</p>
+              <p class="card-des">
+               Lorem, ipsum dolor    
+              </p>
+    
+            </div>
+          </div>
+
+          <div class="col-md-3">
+           <div class="card">
+              <div class="card-image-container">
+        
+               </div>
+              <p class="card-title">Card Title</p>
+              <p class="card-des">
+               Lorem, ipsum dolor    
+              </p>
+    
+            </div>
+          </div>
+
+        </div>
       </div>
     </section>
 
