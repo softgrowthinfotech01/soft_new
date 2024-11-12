@@ -5,13 +5,12 @@
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-  <title>Knight Bootstrap Template - Index</title>
+  <title>Softgrowth Infotech </title>
   <meta content="" name="description">
   <meta content="" name="keywords">
 
   <!-- Favicons -->
-  <link href="assets/img/favicon.png" rel="icon">
-  <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
+  <link href="assets/img/soft_logo.png" rel="icon">
 
   <!-- Google Fonts -->
   <link
@@ -72,26 +71,21 @@
               <p>Better Solutions For Your Business</p>
             </div>
             <div class="content pt-4 pt-lg-0 pl-0 pl-lg-3 ">
-              <h3>Voluptatem dignissimos provident quasi corporis</h3>
+              <h3>Solution for Advertising your Business</h3>
               <p class="fst-italic">
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et
-                dolore
-                magna aliqua.
+              As a top best web design company in Chandrapur we provide all facilities related to the digitalization of your business.
               </p>
               <ul>
-                <li><i class="bx bx-check-double"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat.</li>
-                <li><i class="bx bx-check-double"></i> Duis aute irure dolor in reprehenderit in voluptate velit.</li>
-                <li><i class="bx bx-check-double"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis
-                  aute irure dolor in reprehenderit in voluptate trideta storacalaperda mastiro dolore eu fugiat nulla
-                  pariatur.</li>
+                <li class=" nav-link p-0 text-dark"><i class="bx bx-check-double text-info"></i> OUR VISION</li>
+                <li class=" nav-link p-0 text-dark"><i class="bx bx-check-double text-info"></i>OUR MISSION</li>
+                <li class=" nav-link p-0 text-dark"><i class="bx bx-check-double text-info"></i> OUR STRENGTH</li>
+                <li class=" nav-link p-0 text-dark"><i class="bx bx-check-double text-info"></i> EXPERTISE</li>
               </ul>
               <p>
                 Softgrowth Is the result of the dream and hardwork of a young talented.The skilled & sincere team of
                 professionals is our biggest strength.We have been are liable organization inproviding the best services
-                to the clients with the assistance of our proficient professionals. <br>
+                to the clients with the assistance of our proficient professionals. 
 
-                We are first leading software company in Chandrapur.We notonly work in Chandrapur but allover india and
-                outside india.We have client from USA,South Africa,Austrlia etc.
               </p>
             </div>
           </div>
@@ -353,16 +347,16 @@
 
         <div class="row portfolio-container" data-aos="fade-up" data-aos-delay="200">
 
-          <div class="col-lg-4 col-md-6 portfolio-item filter-dynamic">
+        <div class="col-lg-4 col-md-6 portfolio-item filter-dynamic">
             <div class="portfolio-wrap">
-              <img src="assets/img/portfolio/portfolio-1.jpg" class="img-fluid" alt="">
+              <img src="assets/img/portfolio/bhumi_logo.png" class="img-fluid" alt="">
               <div class="portfolio-info">
-                <h4>App 1</h4>
-                <p>App</p>
+              <h4>Bhumi</h4>
+              <p>Web</p>
                 <div class="portfolio-links">
-                  <a href="assets/img/portfolio/portfolio-1.jpg" data-gallery="portfolioGallery"
+                  <a href="assets/img/portfolio/bhumi_logo.png" data-gallery="portfolioGallery"
                     class="portfolio-lightbox" title="App 1"><i class="bx bx-plus"></i></a>
-                  <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
+                  <a target="_blank"  href="https://softgrowthinfotech.com/new/home.php" title="More Details"><i class="bx bx-link"></i></a>
                 </div>
               </div>
             </div>
@@ -370,14 +364,14 @@
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-web">
             <div class="portfolio-wrap">
-              <img src="assets/img/portfolio/portfolio-2.jpg" class="img-fluid" alt="">
+              <img src="assets/img/portfolio/wildlife_adventure.png" class="img-fluid" alt="">
               <div class="portfolio-info">
-                <h4>Web 3</h4>
-                <p>Web</p>
+              <h4>tadoba wildlife adventure</h4>
+              <p>Web</p>
                 <div class="portfolio-links">
-                  <a href="assets/img/portfolio/portfolio-2.jpg" data-gallery="portfolioGallery"
+                  <a href="assets/img/portfolio/wildlife_adventure.png" data-gallery="portfolioGallery"
                     class="portfolio-lightbox" title="Web 3"><i class="bx bx-plus"></i></a>
-                  <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
+                  <a target="_blank" href="http://www.tadobawildlifeadventure.com/" title="More Details"><i class="bx bx-link"></i></a>
                 </div>
               </div>
             </div>
@@ -385,14 +379,14 @@
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-dynamic">
             <div class="portfolio-wrap">
-              <img src="assets/img/portfolio/portfolio-3.jpg" class="img-fluid" alt="">
+              <img src="assets/img/portfolio/elysian.png" class="img-fluid" alt="">
               <div class="portfolio-info">
-                <h4>App 2</h4>
-                <p>App</p>
+              <h4>elysian</h4>
+              <p>web</p>
                 <div class="portfolio-links">
-                  <a href="assets/img/portfolio/portfolio-3.jpg" data-gallery="portfolioGallery"
+                  <a href="assets/img/portfolio/elysian.png" data-gallery="portfolioGallery"
                     class="portfolio-lightbox" title="App 2"><i class="bx bx-plus"></i></a>
-                  <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
+                  <a target="_blank" href="https://elysianartify.com/" title="More Details"><i class="bx bx-link"></i></a>
                 </div>
               </div>
             </div>
@@ -405,7 +399,7 @@
         <div>
             <a href="portfolio">
               <button class="about_button">
-                Know More
+                Explore More
               </button>
             </a>
           </div>
@@ -681,77 +675,59 @@
         <ul class="faq-list">
 
           <li data-aos="fade-up">
-            <a data-bs-toggle="collapse" class="collapsed" data-bs-target="#faq1">Non consectetur a erat nam at lectus
-              urna duis? <i class="bx bx-chevron-down icon-show"></i><i class="bx bx-x icon-close"></i></a>
+            <a data-bs-toggle="collapse" class="collapsed" data-bs-target="#faq1">What services does Softgrowth Infotech offer?<i class="bx bx-chevron-down icon-show"></i><i class="bx bx-x icon-close"></i></a>
             <div id="faq1" class="collapse" data-bs-parent=".faq-list">
               <p>
-                Feugiat pretium nibh ipsum consequat. Tempus iaculis urna id volutpat lacus laoreet non curabitur
-                gravida. Venenatis lectus magna fringilla urna porttitor rhoncus dolor purus non.
+              Softgrowth Infotech provides a wide range of software development services, including web development with Static and Dynamic websites. We also offer IT consulting and system integration services.
               </p>
             </div>
           </li>
 
           <li data-aos="fade-up" data-aos-delay="100">
-            <a data-bs-toggle="collapse" data-bs-target="#faq2" class="collapsed">Feugiat scelerisque varius morbi enim
-              nunc faucibus a pellentesque? <i class="bx bx-chevron-down icon-show"></i><i
+            <a data-bs-toggle="collapse" data-bs-target="#faq2" class="collapsed">How long has Softgrowth Infotech been in business?<i class="bx bx-chevron-down icon-show"></i><i
                 class="bx bx-x icon-close"></i></a>
             <div id="faq2" class="collapse" data-bs-parent=".faq-list">
               <p>
-                Dolor sit amet consectetur adipiscing elit pellentesque habitant morbi. Id interdum velit laoreet id
-                donec ultrices. Fringilla phasellus faucibus scelerisque eleifend donec pretium. Est pellentesque elit
-                ullamcorper dignissim. Mauris ultrices eros in cursus turpis massa tincidunt dui.
+              Softgrowth Infotech has been delivering top-notch software solutions since 2015. With 9 years of experience, we have established a strong presence in the industry.
               </p>
             </div>
           </li>
 
           <li data-aos="fade-up" data-aos-delay="200">
-            <a data-bs-toggle="collapse" data-bs-target="#faq3" class="collapsed">Dolor sit amet consectetur adipiscing
-              elit pellentesque habitant morbi? <i class="bx bx-chevron-down icon-show"></i><i
+            <a data-bs-toggle="collapse" data-bs-target="#faq3" class="collapsed">What programming languages and technologies do you use ? <i class="bx bx-chevron-down icon-show"></i><i
                 class="bx bx-x icon-close"></i></a>
             <div id="faq3" class="collapse" data-bs-parent=".faq-list">
               <p>
-                Eleifend mi in nulla posuere sollicitudin aliquam ultrices sagittis orci. Faucibus pulvinar elementum
-                integer enim. Sem nulla pharetra diam sit amet nisl suscipit. Rutrum tellus pellentesque eu tincidunt.
-                Lectus urna duis convallis convallis tellus. Urna molestie at elementum eu facilisis sed odio morbi quis
+              Our team is proficient in a wide range of programming languages and technologies, including but not limited to, JavaScript, PHP, Angular, React. We stay updated with the latest trends to deliver cutting-edge solutions.
               </p>
             </div>
           </li>
 
           <li data-aos="fade-up" data-aos-delay="300">
-            <a data-bs-toggle="collapse" data-bs-target="#faq4" class="collapsed">Ac odio tempor orci dapibus. Aliquam
-              eleifend mi in nulla? <i class="bx bx-chevron-down icon-show"></i><i class="bx bx-x icon-close"></i></a>
+            <a data-bs-toggle="collapse" data-bs-target="#faq4" class="collapsed">Can you handle large-scale projects? <i class="bx bx-chevron-down icon-show"></i><i class="bx bx-x icon-close"></i></a>
             <div id="faq4" class="collapse" data-bs-parent=".faq-list">
               <p>
-                Dolor sit amet consectetur adipiscing elit pellentesque habitant morbi. Id interdum velit laoreet id
-                donec ultrices. Fringilla phasellus faucibus scelerisque eleifend donec pretium. Est pellentesque elit
-                ullamcorper dignissim. Mauris ultrices eros in cursus turpis massa tincidunt dui.
+              Absolutely. Our team has successfully managed and delivered large-scale projects for various industries. We have the resources and expertise to handle complex and extensive software development projects.
               </p>
             </div>
           </li>
 
           <li data-aos="fade-up" data-aos-delay="400">
-            <a data-bs-toggle="collapse" data-bs-target="#faq5" class="collapsed">Tempus quam pellentesque nec nam
-              aliquam sem et tortor consequat? <i class="bx bx-chevron-down icon-show"></i><i
+            <a data-bs-toggle="collapse" data-bs-target="#faq5" class="collapsed">What is your approach to client communication?<i class="bx bx-chevron-down icon-show"></i><i
                 class="bx bx-x icon-close"></i></a>
             <div id="faq5" class="collapse" data-bs-parent=".faq-list">
               <p>
-                Molestie a iaculis at erat pellentesque adipiscing commodo. Dignissim suspendisse in est ante in. Nunc
-                vel risus commodo viverra maecenas accumsan. Sit amet nisl suscipit adipiscing bibendum est. Purus
-                gravida quis blandit turpis cursus in
+              Effective communication is key to our success. We maintain regular contact with our clients through meetings, emails, and project management tools. We ensure that clients are updated on progress and any changes throughout the project.
               </p>
             </div>
           </li>
 
           <li data-aos="fade-up" data-aos-delay="500">
-            <a data-bs-toggle="collapse" data-bs-target="#faq6" class="collapsed">Tortor vitae purus faucibus ornare.
-              Varius vel pharetra vel turpis nunc eget lorem dolor? <i class="bx bx-chevron-down icon-show"></i><i
+            <a data-bs-toggle="collapse" data-bs-target="#faq6" class="collapsed">Do you provide post-launch support and maintenance?<i class="bx bx-chevron-down icon-show"></i><i
                 class="bx bx-x icon-close"></i></a>
             <div id="faq6" class="collapse" data-bs-parent=".faq-list">
               <p>
-                Laoreet sit amet cursus sit amet dictum sit amet justo. Mauris vitae ultricies leo integer malesuada
-                nunc vel. Tincidunt eget nullam non nisi est sit amet. Turpis nunc eget lorem dolor sed. Ut venenatis
-                tellus in metus vulputate eu scelerisque. Pellentesque diam volutpat commodo sed egestas egestas
-                fringilla phasellus faucibus. Nibh tellus molestie nunc non blandit massa enim nec.
+              Yes, we offer comprehensive post-launch support and maintenance services to ensure the smooth functioning of your software. Our team is available to address any issues, implement updates, and provide ongoing support.
               </p>
             </div>
           </li>
