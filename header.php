@@ -26,7 +26,7 @@
             </ul>
           </li>
           <li><a <?php if($path == "contact") {echo "class='active nav-link scrollto'" ; }  ?> target="_blank" class="nav-link scrollto" href="contact">Contact</a></li>
-          <li><a class="nav-link scrollto" href="http://softgrowthblog.com/">techarticle</a></li>
+          <li><a class="nav-link scrollto" href="http://softgrowthblog.com/">Blog</a></li>
         </ul>
         <i class="bi bi-list mobile-nav-toggle"></i>
       </nav><!-- .navbar -->

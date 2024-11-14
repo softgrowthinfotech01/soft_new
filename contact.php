@@ -65,7 +65,7 @@
 
         <div class="section-title">
           <h2>Contact</h2>
-          <p>Magnam dolores commodi suscipit eius consequatur ex aliquid fuga eum quidem</p>
+        
         </div>
 
         <div class="row">
@@ -75,19 +75,24 @@
               <div class="address">
                 <i class="bi bi-geo-alt"></i>
                 <h4>Location:</h4>
-                <p>A108 Adam Street,<br>New York, NY 535022</p>
+                <p>Royal Villa, Plot No 22, MIDC Road,</br>
+near Sai temple, Datala </br>
+Kosara,Chandrapur. Maharashtra 442402</p>
               </div>
 
               <div class="email">
                 <i class="bi bi-envelope"></i>
                 <h4>Email:</h4>
-                <p>info@example.com</p>
+                <p>info@softgrowthinfotech.com
+</br>
+softgrowthinfotech@gmail.com
+                </p>
               </div>
 
               <div class="phone">
                 <i class="bi bi-phone"></i>
                 <h4>Call:</h4>
-                <p>+1 5589 55488 55s</p>
+                <p>+91-8888654507</p>
               </div>
 
             </div>
