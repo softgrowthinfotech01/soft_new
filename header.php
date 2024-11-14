@@ -8,7 +8,7 @@
     <div class="container d-flex align-items-center justify-content-between">
 
       <div class="logo">
-        <a href="index.php"><img src="assets/img/s_logo.png" alt="logo" class="img-fluid"></a>
+        <a href="index.php"><img src="assets/img/soft_logo_org.png" alt="logo" class="img-fluid"></a>
       </div>
 
       <nav id="navbar" class="navbar">
@@ -18,7 +18,7 @@
           <li><a <?php if($path == "services") {echo "class='active nav-link scrollto'" ; }  ?> class="nav-link scrollto" href="services">Services</a></li>
           <li><a <?php if($path == "portfolio") {echo "class='active nav-link scrollto'" ; }  ?> class="nav-link scrollto " href="portfolio">Portfolio</a></li>
           <li><a <?php if($path == "Internship") {echo "class='active nav-link scrollto'" ; }  ?> class="nav-link scrollto" href="Internship">Internship</a></li>
-          <li class="dropdown"><a <?php if($path == "index") {echo "class='active nav-link scrollto'" ; }  ?> href="#"><span>Courses</span> <i class="bi bi-chevron-down"></i></a>
+          <li class="dropdown"><a <?php if($path == "frontend testing") {echo "class='active nav-link scrollto'" ; }  ?> href="#"><span>Courses</span> <i class="bi bi-chevron-down"></i></a>
             <ul>
               <li><a <?php if($path == "index") {echo "class='active nav-link scrollto'" ; }  ?> href="frontend">Front-End Development</a></li>
               <li><a <?php if($path == "index") {echo "class='active nav-link scrollto'" ; }  ?> href="testing">Software Testing </a></li>

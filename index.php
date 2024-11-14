@@ -17,6 +17,10 @@
     href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Montserrat:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i"
     rel="stylesheet">
 
+
+    <!-- font -->
+    <?php require_once "font.php"; ?>
+
   <!-- Vendor CSS Files -->
   <link href="assets/vendor/aos/aos.css" rel="stylesheet">
   <link href="assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
@@ -28,12 +32,23 @@
   <!-- Template Main CSS File -->
   <link href="assets/css/style.css" rel="stylesheet">
 
-  <!-- =======================================================
-  * Template Name: Knight - v4.3.0
-  * Template URL: https://bootstrapmade.com/knight-free-bootstrap-theme/
-  * Author: BootstrapMade.com
-  * License: https://bootstrapmade.com/license/
-  ======================================================== -->
+  <style>
+    .text-logo{
+      -webkit-text-fill-color: transparent;
+  -webkit-background-clip: text;
+  background-clip: text;
+  background-image: linear-gradient(80deg,#2a58f9,#f99d2a);
+    }
+
+  
+
+.source-code-pro-500 {
+  font-family: "Source Code Pro", monospace;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+}
+  </style>
 </head>
 
 <body>
@@ -67,7 +82,7 @@
           </div>
           <div class="col-lg-6" data-aos="fade-left">
             <div class="section-title" data-aos="fade-up">
-              <h3>  Welcome to SOFTGROWTH INFOTECH </h3>
+              <h3>  Welcome to <h1 class="text-logo source-code-pro-500"><b>SOFTGROWTH INFOTECH</b></h1> </h3>
               <p> Your Partner in Digital Success</p>
             </div>
             <div class="content pt-4 pt-lg-0 pl-0 pl-lg-3 ">
@@ -86,9 +101,9 @@
               </p>
                <h3>Our Services</h3>
               <ul>
-                <li class=" nav-link p-0 text-dark"><i class="bx bx-check-double text-info"></i>Website Design & Development</li>
-                <li class=" nav-link p-0 text-dark"><i class="bx bx-check-double text-info"></i>Professional Courses for Students</li>
-                <li class=" nav-link p-0 text-dark"><i class="bx bx-check-double text-info"></i>Custom Software Development</li>
+                <li class=" nav-link p-0 text-light"><i class="bx bx-check-double text-info"></i>Website Design & Development</li>
+                <li class=" nav-link p-0 text-light"><i class="bx bx-check-double text-info"></i>Professional Courses for Students</li>
+                <li class=" nav-link p-0 text-light"><i class="bx bx-check-double text-info"></i>Custom Software Development</li>
                
               </ul>
              
@@ -127,14 +142,14 @@
     </section><!-- End wellcome Us Section -->
 
     <!-- ======= About Us Section ======= -->
-    <section class="about" id="about">
+    <section class="about bg-light text-dark" id="about">
       <div class="row justify-content-center">
-        <div class="col-lg-10" data-aos="fade-up">
+        <div class="col-lg-8" data-aos="fade-up">
           <div class="section-title" data-aos="fade-up">
-            <h2>About Us</h2>
+            <h2 class="text-dark">About Us</h2>
           </div>
           <div class="content pt-4 pt-lg-0 pl-0 pl-lg-3 ">
-            <p class="text-justify" style="text-align:justify;">
+            <p class="text-justify " style="text-align:justify;">
               As a top best web design company in Chandrapur we provide all facilities related to the digitalization of
               your business.Softgrowth Infotech is happy to offer services in all the areas of Vidarbha, Maharashtra
               including Bhandara, Chandrapur, Gadchiroli, Gondia etc and even outside india.countries like USA,South
@@ -211,7 +226,7 @@
     </section><!-- End Services Section -->
 
     <!-- ======= Featured Section ======= -->
-    <section id="featured" class="featured">
+    <section id="featured " class="featured text-dark">
       <div class="container">
 
         <div class="row">
@@ -239,30 +254,30 @@
               </div>
             </div>
           </div>
-          <div class="col-lg-6 mt-4 mt-lg-0" data-aos="fade-left">
-            <h2>Why Choose Us?</h2>
+          <div class="col-lg-6 mt-4 mt-lg-0 text-dark" data-aos="fade-left">
+            <h2 class="text-dark">Why Choose Us?</h2>
             <ul class="nav nav-tabs flex-column">
               <li class="nav-item">
                 <a class="nav-link active show" data-bs-toggle="tab" href="#tab-1">
                  
-                  <h4>Experienced Team: Skilled professionals with a passion for technology.</h4>
+                  <h4 class="text-dark">Experienced Team: Skilled professionals with a passion for technology.</h4>
                 </a>
               </li>
               <li class="nav-item mt-2">
                 <a class="nav-link" data-bs-toggle="tab" href="#tab-2">
-                  <h4>Customer-Centric Approach: Solutions designed to meet your goals.</h4>
+                  <h4 class="text-dark">Customer-Centric Approach: Solutions designed to meet your goals.</h4>
                  
                 </a>
               </li>
               <li class="nav-item mt-2">
                 <a class="nav-link" data-bs-toggle="tab" href="#tab-3">
-                  <h4>Affordable Pricing: High-quality services at competitive rates.</h4>
+                  <h4 class="text-dark">Affordable Pricing: High-quality services at competitive rates.</h4>
                  
                 </a>
               </li>
               <li class="nav-item mt-2">
                 <a class="nav-link" data-bs-toggle="tab" href="#tab-4">
-                  <h4>End-to-End Support: From concept to delivery and beyond.</h4>
+                  <h4 class="text-dark">End-to-End Support: From concept to delivery and beyond.</h4>
                   
                 </a>
               </li>
@@ -369,7 +384,8 @@
             <img src="assets/img/portfolio/bhumi_logo.png"
                 class="w-100 shadow-1-strong mb-3" alt="Boat on Calm Water" />
         </a>
-       
+    </div>
+    <div class="col-lg-4 col-md-12 mb-4 mb-lg-0 px-2  ">
         <a class="lg-item" data-lg-size="1600-2400"
             data-src="assets/img/portfolio/bhumi_logo.png">
             <img src="assets/img/portfolio/bhumi_logo.png"
@@ -382,6 +398,8 @@
             <img src="assets/img/portfolio/atma.png"
                 class="w-100 shadow-1-strong mb-3" alt="Mountains in the Clouds" />
         </a>
+    </div> 
+    <div class="col-lg-4 mb-4 mb-lg-0 px-2">
         <a class="lg-item" data-lg-size="1600-1065"
             data-src="assets/img/portfolio/bhumi_logo.png">
             <img src="assets/img/portfolio/bhumi_logo.png"
