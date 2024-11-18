@@ -10,7 +10,7 @@
   <meta content="" name="keywords">
 
   <!-- Favicons -->
-  <link href="assets/img/soft_logo.png" rel="icon">
+  <link href="assets/img/soft_logo_org.png" rel="icon">
 
   <!-- Google Fonts -->
   <link
@@ -56,7 +56,7 @@
   <!-- ======= Hero Section ======= -->
   <section id="hero">
     <div class="hero-container">
-      <a href="index.php" class="hero-logo" data-aos="zoom-in"><img src="assets/img/soft_logo.png" alt="soft_logo" style="width:200px;"></a>
+      <a href="index.php" class="hero-logo" data-aos="zoom-in"><img src="assets/img/soft_logo_org.png" alt="soft_logo" style="width:200px;"></a>
       <h1 data-aos="zoom-in">Welcome To Softgrowth Infotech</h1>
       <h2 data-aos="fade-up">Website Design | Software Development | Internship</h2>
       <a data-aos="fade-up" data-aos-delay="200" href="#wellcome" class="btn-get-started scrollto">Get Started</a>
@@ -185,36 +185,39 @@
         <div class="row">
           <div class="col-lg-6 order-2 order-lg-1">
             <div class="icon-box mt-5 mt-lg-0" data-aos="fade-up">
-              <i class="bx bx-receipt"></i>
+              <!-- <i class="bx bx-receipt"></i> -->
+              <i class='bx bx-code-block text-warning'></i>
               <h4>Website Design & Development</h4>
               <p>Make your online presence shine!</p>
-              <ul>
-                <li>Responsive Design: Websites that look great on any device.</li>
-                <li>Custom Websites: Tailored designs that reflect your brand identity.</li>
-                <li>E-Commerce Solutions: Seamless online stores to boost your sales.</li>
-                <li>SEO-Friendly: Optimized websites to rank higher and attract more visitors.</li>
+              <ul class="list-unstyled">
+                <li><i class='bx bx-right-arrow-alt text-warning p-1' style="font-size:18px;"></i> Responsive Design: Websites that look great on any device.</li>
+                <li><i class='bx bx-right-arrow-alt text-warning p-1' style="font-size:18px;"></i>Custom Websites: Tailored designs that reflect your brand identity.</li>
+                <li><i class='bx bx-right-arrow-alt text-warning p-1' style="font-size:18px;"></i>E-Commerce Solutions: Seamless online stores to boost your sales.</li>
+                <li><i class='bx bx-right-arrow-alt text-warning p-1' style="font-size:18px;"></i>SEO-Friendly: Optimized websites to rank higher and attract more visitors.</li>
               </ul>
             </div>
             <div class="icon-box mt-5" data-aos="fade-up" data-aos-delay="100">
-              <i class="bx bx-cube-alt"></i>
+              <!-- <i class="bx bx-cube-alt"></i> -->
+              <i class='bx bx-book-content text-warning'></i>
               <h4>Professional Courses for Students</h4>
               <p>Unlock your potential with hands-on learning.</p>
-              <ul>
-                <li>Web Development: Master HTML, CSS, JavaScript, and frameworks like React and Angular.</li>
-                <li>Software Development: Learn programming languages, database management, and system design.</li>
-                <li>Digital Marketing: Become an expert in SEO, social media, and online branding.</li>
-                <li>Certification Programs: Industry-recognized certifications to boost your career prospects.</li>
+              <ul class="list-unstyled">
+                <li><i class='bx bx-right-arrow-alt text-warning p-1' style="font-size:18px;"></i>Web Development: Master HTML, CSS, JavaScript, and frameworks like React and Angular.</li>
+                <li><i class='bx bx-right-arrow-alt text-warning p-1' style="font-size:18px;"></i>Software Development: Learn programming languages, database management, and system design.</li>
+                <li><i class='bx bx-right-arrow-alt text-warning p-1' style="font-size:18px;"></i>Digital Marketing: Become an expert in SEO, social media, and online branding.</li>
+                <li><i class='bx bx-right-arrow-alt text-warning p-1' style="font-size:18px;"></i>Certification Programs: Industry-recognized certifications to boost your career prospects.</li>
               </ul>
             </div>
             
             <div class="icon-box mt-5" data-aos="fade-up" data-aos-delay="300">
-              <i class="bx bx-shield"></i>
+              <!-- <i class="bx bx-shield"></i> -->
+              <i class='bx bx-desktop text-warning'></i>
               <h4>Custom Software Development</h4>
               <p>Solutions as unique as your business.</p>
-              <ul>
-                <li>Enterprise Applications: Streamline operations with efficient software.</li>
-                <li>Mobile Apps: Engage customers with user-friendly apps.</li>
-                <li>Integration Services: Seamlessly connect your existing systems.</li>
+              <ul class="list-unstyled">
+                <li><i class='bx bx-right-arrow-alt text-warning p-1' style="font-size:18px;"></i>Enterprise Applications: Streamline operations with efficient software.</li>
+                <li><i class='bx bx-right-arrow-alt text-warning p-1' style="font-size:18px;"></i>Mobile Apps: Engage customers with user-friendly apps.</li>
+                <li><i class='bx bx-right-arrow-alt text-warning p-1' style="font-size:18px;"></i>Integration Services: Seamlessly connect your existing systems.</li>
               </ul>
             </div>
           </div>
@@ -361,10 +364,10 @@
           
           
         </div>
-        <div class="d-flex justify-content-center">
+        <div class="service_button d-flex justify-content-center">
         <div>
             <a href="portfolio">
-              <button class="about_button">
+              <button class="about_button text-light">
                 Explore More
               </button>
             </a>
@@ -417,29 +420,55 @@
 
         <div class="row">
 
-          <div class="col-lg-2 col-md-4 col-6" data-aos="zoom-in">
+          <div class="col-lg-3 col-md-4 col-6" data-aos="zoom-in">
             <img src="assets/img/clients/client-1.png" class="img-fluid" alt="">
           </div>
 
-          <div class="col-lg-2 col-md-4 col-6" data-aos="zoom-in" data-aos-delay="100">
+          <div class="col-lg-3 col-md-4 col-6" data-aos="zoom-in" data-aos-delay="100">
             <img src="assets/img/clients/client-2.png" class="img-fluid" alt="">
           </div>
 
-          <div class="col-lg-2 col-md-4 col-6" data-aos="zoom-in" data-aos-delay="200">
+          <div class="col-lg-3 col-md-4 col-6" data-aos="zoom-in" data-aos-delay="200">
             <img src="assets/img/clients/client-3.png" class="img-fluid" alt="">
           </div>
 
-          <div class="col-lg-2 col-md-4 col-6" data-aos="zoom-in" data-aos-delay="300">
+          <div class="col-lg-3 col-md-4 col-6" data-aos="zoom-in" data-aos-delay="300">
             <img src="assets/img/clients/client-4.png" class="img-fluid" alt="">
           </div>
 
-          <div class="col-lg-2 col-md-4 col-6" data-aos="zoom-in" data-aos-delay="400">
+          <div class="col-lg-3 col-md-4 col-6" data-aos="zoom-in" data-aos-delay="400">
             <img src="assets/img/clients/client-5.png" class="img-fluid" alt="">
           </div>
 
-          <div class="col-lg-2 col-md-4 col-6" data-aos="zoom-in" data-aos-delay="500">
+          <div class="col-lg-3 col-md-4 col-6" data-aos="zoom-in" data-aos-delay="500">
             <img src="assets/img/clients/client-6.png" class="img-fluid" alt="">
           </div>
+
+          <div class="col-lg-3 col-md-4 col-6" data-aos="zoom-in" data-aos-delay="500">
+            <img src="assets/img/clients/client-6.png" class="img-fluid" alt="">
+          </div>
+
+          <div class="col-lg-3 col-md-4 col-6" data-aos="zoom-in" data-aos-delay="500">
+            <img src="assets/img/clients/client-6.png" class="img-fluid" alt="">
+          </div>
+
+          <div class="col-lg-3 col-md-4 col-6" data-aos="zoom-in" data-aos-delay="500">
+            <img src="assets/img/clients/client-6.png" class="img-fluid" alt="">
+          </div>
+
+          
+          <div class="col-lg-3 col-md-4 col-6" data-aos="zoom-in" data-aos-delay="500">
+            <img src="assets/img/clients/client-6.png" class="img-fluid" alt="">
+          </div>
+
+          <div class="col-lg-3 col-md-4 col-6" data-aos="zoom-in" data-aos-delay="500">
+            <img src="assets/img/clients/client-6.png" class="img-fluid" alt="">
+          </div>
+
+          <div class="col-lg-3 col-md-4 col-6" data-aos="zoom-in" data-aos-delay="500">
+            <img src="assets/img/clients/client-6.png" class="img-fluid" alt="">
+          </div>
+
 
         </div>
 
