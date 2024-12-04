@@ -1,35 +1,12 @@
 <!DOCTYPE html>
 <html lang="en">
 
-<head>
-  <meta charset="utf-8">
-  <meta content="width=device-width, initial-scale=1.0" name="viewport">
+<?php require_once "head.php"; ?>
 
-  <title>Inner Page - Knight Bootstrap Template</title>
-  <meta content="" name="description">
-  <meta content="" name="keywords">
-
-  <!-- Favicons -->
-  <link href="assets/img/soft_logo.png" rel="icon">
-  <!-- <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon"> -->
-
-  <!-- Google Fonts -->
-  <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Montserrat:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i" rel="stylesheet">
-
-  <!-- Vendor CSS Files -->
-  <link href="assets/vendor/aos/aos.css" rel="stylesheet">
-  <link href="assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
-  <link href="assets/vendor/bootstrap-icons/bootstrap-icons.css" rel="stylesheet">
-  <link href="assets/vendor/boxicons/css/boxicons.min.css" rel="stylesheet">
-  <link href="assets/vendor/glightbox/css/glightbox.min.css" rel="stylesheet">
-  <link href="assets/vendor/swiper/swiper-bundle.min.css" rel="stylesheet">
-
-  <!-- Template Main CSS File -->
-  <link href="assets/css/style.css" rel="stylesheet">
-
-
+<style>
   
-  <style>
+/* accordion cources */
+ 
     
 .accordion-container {
     width: 100%;
@@ -70,11 +47,21 @@
     height: 0;
     overflow: hidden;
   }
+
+
+  ul{
+    color:#000;
+    list-style-type: circle;
+  }
   
-  </style>
-</head>
+/*  */
+</style>
 
 <body>
+
+<!-- ======= Loader Section ======= -->
+
+<?php require_once "loader.php"; ?>
 
   <!-- ======= Header ======= -->
    <?php require_once "header.php";  ?>
@@ -97,14 +84,14 @@
       </div>
     </section><!-- End Breadcrumbs -->
 
-    <section class="inner-page">
+    <section class="inner-page p-0">
       <div class="container">
       <section id="services" data-scroll-reveal="enter left move 10px over 1s after 0.2s">
 
 
 <div class="container-fluid">
     <!-- ======= Portfolio Section ======= -->
-    <section id="portfolio" class="portfolio  h-100">
+    <section id="portfolio" class="portfolio pt-0  h-100">
         <div class="container">
 
             <div class="section-title ">

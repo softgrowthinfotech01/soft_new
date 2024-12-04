@@ -1,40 +1,12 @@
 <!DOCTYPE html>
 <html lang="en">
 
-<head>
-  <meta charset="utf-8">
-  <meta content="width=device-width, initial-scale=1.0" name="viewport">
+<?php require_once "head.php"; ?>
 
-  <title>Inner Page - Knight Bootstrap Template</title>
-  <meta content="" name="description">
-  <meta content="" name="keywords">
-
-  <!-- Favicons -->
-  <link href="assets/img/soft_logo.png" rel="icon">
-  <!-- <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon"> -->
-
-  <!-- Google Fonts -->
-  <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Montserrat:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i" rel="stylesheet">
-
-  <!-- Vendor CSS Files -->
-  <link href="assets/vendor/aos/aos.css" rel="stylesheet">
-  <link href="assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
-  <link href="assets/vendor/bootstrap-icons/bootstrap-icons.css" rel="stylesheet">
-  <link href="assets/vendor/boxicons/css/boxicons.min.css" rel="stylesheet">
-  <link href="assets/vendor/glightbox/css/glightbox.min.css" rel="stylesheet">
-  <link href="assets/vendor/swiper/swiper-bundle.min.css" rel="stylesheet">
-
-  <!-- Template Main CSS File -->
-  <link href="assets/css/style.css" rel="stylesheet">
-
-  <!-- =======================================================
-  * Template Name: Knight - v4.3.0
-  * Template URL: https://bootstrapmade.com/knight-free-bootstrap-theme/
-  * Author: BootstrapMade.com
-  * License: https://bootstrapmade.com/license/
-  ======================================================== -->
-
-  <style>
+<style>
+    
+/* accordion cources */
+ 
     
 .accordion-container {
     width: 100%;
@@ -75,11 +47,20 @@
     height: 0;
     overflow: hidden;
   }
+
+
+  ul{
+    color:#000;
+    list-style-type: circle;
+  }
   
-  </style>
-</head>
+/*  */
+</style>
 
 <body>
+    <!-- ======= Loader Section ======= -->
+
+   <?php require_once "loader.php"; ?>
 
   <!-- ======= Header ======= -->
    <?php require_once "header.php";  ?>
@@ -92,10 +73,10 @@
       <div class="container">
 
         <div class="d-flex justify-content-between align-items-center">
-          <h2>Contact Us</h2>
+          <h2>Front-end Syllabus</h2>
           <ol>
             <li><a href="index.php">Home</a></li>
-            <li>Contact Us</li>
+            <li>Front-end Syllabus</li>
           </ol>
         </div>
 
@@ -107,7 +88,7 @@
                 <div class="container">
 
                     <div class="section-title ">
-                        <h2 class="mb-0" style="letter-spacing:0px; margin-bottom:30px;">Our Front-End Syllabus</h2>
+                        <h2 class="mb-0 " style="letter-spacing:0px; margin-bottom:30px;">Our Front-End Syllabus</h2>
                         <!--<span class="text-info">______</span>-->
                         <!--<p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>-->
                     </div>
@@ -127,7 +108,7 @@
 
                         <div class="col-md-6 mb-2">
                             <div class="accordion">
-                            <button class="menu-button">web Introduction<span class="icon">&plus;</span></button>
+                            <button class="menu-button">Web Introduction<span class="icon">&plus;</span></button>
                             <div class="content">
                                
                                         <ul>

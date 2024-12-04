@@ -1,41 +1,12 @@
 <!DOCTYPE html>
 <html lang="en">
 
-<head>
-  <meta charset="utf-8">
-  <meta content="width=device-width, initial-scale=1.0" name="viewport">
-
-  <title>About Us | Softgrowth Infotech</title>
-  <meta content="" name="description">
-  <meta content="" name="keywords">
-
-  <!-- Favicons -->
-  <link href="assets/img/soft_logo.png" rel="icon">
-  <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
-
-  <!-- Google Fonts -->
-  <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Montserrat:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i" rel="stylesheet">
-
-  <!-- Vendor CSS Files -->
-  <link href="assets/vendor/aos/aos.css" rel="stylesheet">
-  <link href="assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
-  <link href="assets/vendor/bootstrap-icons/bootstrap-icons.css" rel="stylesheet">
-  <link href="assets/vendor/boxicons/css/boxicons.min.css" rel="stylesheet">
-  <link href="assets/vendor/glightbox/css/glightbox.min.css" rel="stylesheet">
-  <link href="assets/vendor/swiper/swiper-bundle.min.css" rel="stylesheet">
-
-  <!-- Template Main CSS File -->
-  <link href="assets/css/style.css" rel="stylesheet">
-
-  <!-- =======================================================
-  * Template Name: Knight - v4.3.0
-  * Template URL: https://bootstrapmade.com/knight-free-bootstrap-theme/
-  * Author: BootstrapMade.com
-  * License: https://bootstrapmade.com/license/
-  ======================================================== -->
-</head>
+<?php require_once "head.php"; ?>
 
 <body>
+<!-- ======= Loader Section ======= -->
+
+<?php require_once "loader.php"; ?>
 
   <!-- ======= Header ======= -->
    <?php require_once "header.php";  ?>
@@ -60,52 +31,53 @@
 
     <section class="inner-page text-center">
       <div class="container">
-      <section class="about" id="about">
+      <section class="about pt-0" id="about">
       <div class="row justify-content-center mb-5">
         <div class="col-lg-12" data-aos="fade-up">
           <div class="section-title" data-aos="fade-up">
-            <h2>About Us</h2>
+            <h2 class="orangeborder2">About Us</h2>
           </div>
-          <div class="content pt-4 pt-lg-0 pl-0 pl-lg-3 ">
-            <p class="text-justify" style="text-align:justify;">
-            Welcome to Softgrowth Infotech, where creativity meets cutting-edge technology! We specialize in website design, software application development, and custom website solutions tailored to elevate your business in the digital world.</br>
-              As a top best web design company in Chandrapur we provide all facilities related to the digitalization of
-              your business.Softgrowth Infotech is happy to offer services in all the areas of Vidarbha, Maharashtra
-              including Bhandara, Chandrapur, Gadchiroli, Gondia etc and even outside india.countries like USA,South
-              Africa,Australia.
-            </p>
-          </div>
+         
           
 
         </div>
 
       </div>
-      <div class="row bg-light text-dark p-5 justify-content-start">
-        <div class="col-md-6 text-left justify-content-start">
+      <div class="row bg-light text-dark p-5  justify-content-center" data-aos="fade-up">
+         <div class="content col-md-10 pt-5 pt-lg-0 pl-0 pl-lg-3 ">
+            <p class="text-justify" style="text-align:justify;">
+            "Welcome to Softgrowth Infotech, where creativity meets cutting-edge technology! We specialize in website design, software application development, and custom website solutions tailored to elevate your business in the digital world.
+              As a top best web design company in Chandrapur we provide all facilities related to the digitalization of
+              your business.Softgrowth Infotech is happy to offer services in all the areas of Vidarbha, Maharashtra
+              including Bhandara, Chandrapur, Gadchiroli, Gondia etc and even outside india.countries like USA,South
+              Africa,Australia."
+            </p>
+           </div>
+        <div class="col-md-6 text-start justify-content-start">
           
-<h3 class="text-dark p-5">OUR VISION</h3>
+<h3 class="text-dark py-5 px-3"><i class='bx bx-code-alt main-text-orange img-fluid'></i> OUR VISION</h3>
 
 Providing complete IT innovative solutions to make our customers and industry successful through determination, creativity, passion, productivity, value for money, ensuring our products of outstanding quality, instill pride of ownership by innovative and sustainable technical solutions.
 
           
         </div>
-        <div class="col-md-6">
+        <div class="col-md-6 text-start">
 
-     <h3 class="text-dark p-5">   OUR MISSION</h3>
+     <h3 class="text-dark py-5 px-3"><i class='bx bx-code-alt main-text-orange img-fluid'></i>   OUR MISSION</h3>
 
 To become an exclusive IT service provider, aimed for operational excellence by continuously creating more innovative opportunities for growth in our strategic business and focusing to exceed customer expectations by understanding their business needs to be total rewarded with a smile & social responsibility.
 
         </div>
-        <div class="col-md-6">
+        <div class="col-md-6 text-start">
 
-       <h3 class="text-dark p-5"> OUR STRENGTH</h3>
+       <h3 class="text-dark py-5 px-3"><i class='bx bx-code-alt main-text-orange img-fluid'></i> OUR STRENGTH</h3>
 
 Softgrowth Infotech offers a team of hard-working and dedicated professionals proficient in advanced hardware and software technologies. Our state-of-the-art infrastructure guarantees hassle-free operations and 24x7 supports to our global clients.
 
         </div>
-        <div class="col-md-6">
+        <div class="col-md-6 text-start">
 
-      <h3 class="text-dark p-5">  EXPERTISE</h3>
+      <h3 class="text-dark py-5 px-3"><i class='bx bx-code-alt main-text-orange img-fluid align-item-center'></i>  EXPERTISE</h3>
 
 Softgrowth Infotech expertise in the arena of IT solutions is well known & world recognized. Our severe adherence to international quality standards on web, best quality services, creative designs, practical ideas, cost-effective and economical prices, time bound & speedy project completion strategies, user-friendly & easy to surf web presence differentiate us from others.
 
@@ -114,14 +86,19 @@ Softgrowth Infotech expertise in the arena of IT solutions is well known & world
 
       </div>
 
-      <div class="row bg-light text-dark p-5 ">
-        <div class="col-md-6 text-align-start">
-       <h4 class="text-dark"> Who we are?</h4>
+      
+    </section>
+    <div class="row  text-light ">
+        <div class="col-md-6 text-start">
+       <h4 class="text-light text-uppercase ps-3 text-decoration-underline "> Who we are?</h4>
         Are you looking for a Website Design and Development Company in Hyderabad, India and Allen, Texas with real style and visual appeal? Software Creatives have been relentlessly striving to promote ' a culture of Website Design and Development service excellence' to better make our chances to stand in the forefront. We would like to be at the disposal of our clients 24/7 and work round the clock to deliver the projects within turnaround time. We offer a wide range of services in IT Industry throughout the Globe. Software Creatives Services includes Website Design, Web Development(PHP, NET), Web applications Development, Mobile Applications Development, Software Development, Content Management Systems, Ecommerce Website Design, Logo Design, Domain Registrations, Web Hosting Services, Search Engine Optimization (SEO), Payment gateway solutions. 
         </div>
-        <div class="col-md-6"></div>
+        <div class="col-md-6">
+          <div class="img-container">
+            <img src="assets/img/who-we-are.png" alt="who-we-are" class="img-fluid px-5 " srcset="">
+          </div>
+        </div>
       </div>
-    </section>
       </div>
     </section>
 

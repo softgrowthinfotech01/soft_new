@@ -1,41 +1,12 @@
 <!DOCTYPE html>
 <html lang="en">
 
-<head>
-  <meta charset="utf-8">
-  <meta content="width=device-width, initial-scale=1.0" name="viewport">
-
-  <title>Contact Us | Softgrowth Infotech</title>
-  <meta content="" name="description">
-  <meta content="" name="keywords">
-
-  <!-- Favicons -->
-  <link href="assets/img/soft_logo.png" rel="icon">
-  <!-- <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon"> -->
-
-  <!-- Google Fonts -->
-  <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Montserrat:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i" rel="stylesheet">
-
-  <!-- Vendor CSS Files -->
-  <link href="assets/vendor/aos/aos.css" rel="stylesheet">
-  <link href="assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
-  <link href="assets/vendor/bootstrap-icons/bootstrap-icons.css" rel="stylesheet">
-  <link href="assets/vendor/boxicons/css/boxicons.min.css" rel="stylesheet">
-  <link href="assets/vendor/glightbox/css/glightbox.min.css" rel="stylesheet">
-  <link href="assets/vendor/swiper/swiper-bundle.min.css" rel="stylesheet">
-
-  <!-- Template Main CSS File -->
-  <link href="assets/css/style.css" rel="stylesheet">
-
-  <!-- =======================================================
-  * Template Name: Knight - v4.3.0
-  * Template URL: https://bootstrapmade.com/knight-free-bootstrap-theme/
-  * Author: BootstrapMade.com
-  * License: https://bootstrapmade.com/license/
-  ======================================================== -->
-</head>
+<?php require_once "head.php"; ?>
 
 <body>
+<!-- ======= Loader Section ======= -->
+
+<?php require_once "loader.php"; ?>
 
   <!-- ======= Header ======= -->
    <?php require_once "header.php";  ?>
@@ -64,7 +35,7 @@
       <div class="container">
 
         <div class="section-title">
-          <h2>Contact</h2>
+          <h2 class="text-dark orangeborder5">Contact</h2>
         
         </div>
 
@@ -74,7 +45,7 @@
             <div class="info d-flex flex-column justify-content-center" data-aos="fade-right">
               <div class="address">
                 <i class="bi bi-geo-alt"></i>
-                <h4>Location:</h4>
+                <h4 class="text-dark">Location:</h4>
                 <p>Royal Villa, Plot No 22, MIDC Road,</br>
 near Sai temple, Datala </br>
 Kosara,Chandrapur. Maharashtra 442402</p>
@@ -82,7 +53,7 @@ Kosara,Chandrapur. Maharashtra 442402</p>
 
               <div class="email">
                 <i class="bi bi-envelope"></i>
-                <h4>Email:</h4>
+                <h4 class="text-dark">Email:</h4>
                 <p>info@softgrowthinfotech.com
 </br>
 softgrowthinfotech@gmail.com
@@ -91,7 +62,7 @@ softgrowthinfotech@gmail.com
 
               <div class="phone">
                 <i class="bi bi-phone"></i>
-                <h4>Call:</h4>
+                <h4 class="text-dark">Call:</h4>
                 <p>+91-8888654507</p>
               </div>
 

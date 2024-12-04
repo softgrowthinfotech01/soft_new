@@ -35,7 +35,7 @@
           </h2>
           <img src="assets/img/lineSeparatorWhite.png" class="img-responsive lineSeparator py-4"
             data-scroll-reveal="enter left move 10px over 1s after 0.3s" alt="separator" />
-          <a data-scroll-reveal="enter left move 10px over 1s after 0.3s" href="placement" style="color:white;">-
+          <a data-scroll-reveal="enter left move 10px over 1s after 0.3s" href="placements" style="color:white;">-
             Placements</a>
 
         </div>
@@ -72,7 +72,7 @@
 
               <div class="row h6">
                 <div class="col-md-6 ">
-                  <ul class="infoContact list-unstyled ">
+                  <ul class="infoContact list-unstyled text-light">
                     <li>
                       <!-- <i class="fa fa-location-arrow"></i> -->
                       <i class='bx bx-current-location'></i>
@@ -91,7 +91,7 @@
                 </div>
 
                 <div class="col-md-6">
-                  <ul class="infoContact list-unstyled">
+                  <ul class="infoContact list-unstyled text-light">
                     <li class="">
                       <i class="bx bx-envelope"></i>
                       info@softgrowthinfotech.com
