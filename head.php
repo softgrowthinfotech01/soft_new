@@ -1,11 +1,18 @@
 
 <head>
-  <meta charset="utf-8">
-  <meta content="width=device-width, initial-scale=1.0" name="viewport">
-
-  <title>Softgrowth Infotech </title>
-  <meta content="" name="description">
-  <meta content="" name="keywords">
+   <!--  -->
+    <!--  -->
+    <title>Softgrowth Infotech-Best Software company in chandrapur</title>
+    <meta charset="utf-8" />
+    <meta name="description" content="SOFTGROWTH INFOTECH | Leading Software Company In chandrapur ,we provide services like website design ,Software development ,portal ,wordpress website ,internship to student.">
+    <meta name="keyword" content="softgrowth infotech ,software company in chandrapur ,website company in chandrapur,website designer ,internship in chandrapur ,MCA ,BE internship,
+    internship for student ,website ,software developer ,software courses in chandrapur, software class in chandrapur"/>
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1, user-scalable=no"
+    />
+    <!--  -->
+    <!--  -->
 
   <!-- Favicons -->
   <link href="assets/img/soft_logo_org.png" rel="icon">
@@ -32,6 +39,7 @@
   
     <!--  -->
 
+   
 
     <!-- font -->
     <?php require_once "font.php"; ?>

@@ -107,7 +107,7 @@
           <div class="section-title" data-aos="fade-up">
             <h2 class="text-dark orangeborder2">About Us</h2>
           </div>
-          <div class="content pt-4 pt-lg-0 pl-0 pl-lg-3 ">
+          <div class="content pt-4 px-3 ">
             <p class="text-justify " style="text-align:justify;">
               As a top best web design company in Chandrapur we provide all facilities related to the digitalization of
               your business.Softgrowth Infotech is happy to offer services in all the areas of Vidarbha, Maharashtra

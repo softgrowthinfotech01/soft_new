@@ -35,7 +35,7 @@
       <div class="container">
 
         <div class="section-title">
-          <h2 class="text-dark orangeborder5">Contact</h2>
+          <h2 class="text-dark orangeborder">Contact</h2>
         
         </div>
 
