@@ -8,8 +8,8 @@
       <div class="col-lg-6">
         <a href="#header" class="scrollto footer-logo"><img src="assets/img/soft_logo_org.png" alt="" style="width:150px;"></a>
         <h3>Softgrowth</h3>
-        <p>Et aut eum quis fuga eos sunt ipsa nihil. Labore corporis magni eligendi fuga maxime saepe commodi
-          placeat.</p>
+        <!-- <p>Et aut eum quis fuga eos sunt ipsa nihil. Labore corporis magni eligendi fuga maxime saepe commodi
+          placeat.</p> -->
       </div>
     </div>
 
@@ -119,11 +119,11 @@
   <div class="container footer-bottom clearfix pt-0">
 
   <div class="social-links text-center p-3">
-      <a href="#" class="twitter"><i class="bx bxl-twitter"></i></a>
-      <a href="#" class="facebook"><i class="bx bxl-facebook"></i></a>
-      <a href="#" class="instagram"><i class="bx bxl-instagram"></i></a>
-      <a href="#" class="google-plus"><i class="bx bxl-skype"></i></a>
-      <a href="#" class="linkedin"><i class="bx bxl-linkedin"></i></a>
+      <a href="https://x.com/SoftgrowthIndia" class="twitter"><i class="bx bxl-twitter"></i></a>
+      <a href="https://www.facebook.com/softgrowthinfotech/" class="facebook"><i class="bx bxl-facebook"></i></a>
+      <a href="https://www.instagram.com/softgrowth_infotech/" class="instagram"><i class="bx bxl-instagram"></i></a>
+      <a href="https://www.youtube.com/channel/UCqCPPXJhtHVxdVo6KLgf_Pw/featured" class="google-plus"><i class='bx bxl-youtube'></i></a>
+      <a href="https://in.linkedin.com/company/softgrowth-infotech" class="linkedin"><i class="bx bxl-linkedin"></i></a>
     </div>
 
     <div class="copyright">

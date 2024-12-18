@@ -15,7 +15,7 @@
     <!--  -->
 
   <!-- Favicons -->
-  <link href="assets/img/soft_logo_org.png" rel="icon">
+  <link href="assets/img/soft_logo_org.svg" rel="icon" >
 
   <!-- Google Fonts -->
   <link

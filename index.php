@@ -335,7 +335,7 @@
           <p>With Proffessional staff</p>
         </div>
            
-<div class="row mx-0" id="">
+<div class="row mx-0" id="" data-aos="fade-up">
     <div class="col-lg-4 col-md-12 mb-4 px-2  ">
         <a class="lg-item" data-lg-size="1600-1067"
             data-src="assets/img/portfolio/bhumi_logo.png">
@@ -377,6 +377,30 @@
         <a class="lg-item" data-lg-size="1600-1065"
             data-src="assets/img/portfolio/bhumi_logo.png">
             <img src="assets/img/gallary/classroom1.jpeg"
+                class=" w-100 h-100 shadow-1-strong" alt="Boat on Calm Water" />
+        </a>
+      
+    </div>
+    <div class="col-lg-4 mb-4 px-2">
+        <a class="lg-item" data-lg-size="1600-1065"
+            data-src="assets/img/portfolio/bhumi_logo.png">
+            <img src="assets/img/gallary/classroom6.jpeg"
+                class=" w-100 h-100 shadow-1-strong" alt="Boat on Calm Water" />
+        </a>
+      
+    </div>
+    <div class="col-lg-4 mb-4 px-2">
+        <a class="lg-item" data-lg-size="1600-1065"
+            data-src="assets/img/portfolio/bhumi_logo.png">
+            <img src="assets/img/gallary/classroom7.jpeg"
+                class=" w-100 h-100 shadow-1-strong" alt="Boat on Calm Water" />
+        </a>
+      
+    </div>
+    <div class="col-lg-4 mb-4 px-2">
+        <a class="lg-item" data-lg-size="1600-1065"
+            data-src="assets/img/portfolio/bhumi_logo.png">
+            <img src="assets/img/gallary/classroom8.jpeg"
                 class=" w-100 h-100 shadow-1-strong" alt="Boat on Calm Water" />
         </a>
       

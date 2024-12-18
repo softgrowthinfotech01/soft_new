@@ -47,7 +47,7 @@ $stmt=$conn->prepare("SELECT * FROM placement ORDER BY placement_id DESC");
 
       <div class="section-title" data-aos="fade-up">
           <h2 class="orangeborder">Placements</h2>
-          <p>Magnam dolores commodi suscipit eius consequatur ex aliquid fuga eum quidem</p>
+          <!-- <p>Magnam dolores commodi suscipit eius consequatur ex aliquid fuga eum quidem</p> -->
         </div>
 
         <div class="row">
